@@ -3,7 +3,7 @@
 <p>🔬 <strong>Insightful Fact:</strong> On our AI journey, we dive into how AI is reshaping diagnostic imaging across various medical fields.</p>
 
 <p align="center">
-  <img src="Images/Day7.jpeg" alt="AI in Diagnostic Imaging">
+  <img src="Images/Day7.JPG" alt="AI in Diagnostic Imaging">
 </p>
 
 <h3>👩💻 AI in Diagnostic Imaging: Transformative Impact</h3>
